@@ -4,6 +4,7 @@
   "file": "Grimorio-do-Aventureiro-2.1.0-Windows.exe",
   "download": "https://github.com/teixeira-ux/grimorio-do-aventureiro-releases/raw/main/downloads/Grimorio-do-Aventureiro-2.1.0-Windows.exe",
   "page": "https://github.com/teixeira-ux/grimorio-do-aventureiro-releases",
-  "sha256": "f219f50723c1f67a79c7823be16ca826f5ee52587c933a86cc48f43a485d059a",
-  "notes": "Personagem maior no círculo; você escolhe o guia da Mobalytics antes de carregar; botão de dicas, ideias e erros; equipamento recalculado quando o Armory traz detalhes novos."
+  "sha256": "f34fe4015db43fb9fc5b820d84562d08600fd6cd6d5228da309c194f60d2a9bf",
+  "notes": "Personagem maior no círculo; você escolhe o guia da Mobalytics antes de carregar; botão de dicas, ideias e erros; equipamento recalculado quando o Armory traz detalhes novos.",
+  "size": 87109734
 }
