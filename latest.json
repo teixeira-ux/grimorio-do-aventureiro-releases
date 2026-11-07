@@ -1,15 +1,16 @@
 {
-  "version": "2.2.3",
+  "version": "2.3.0",
   "date": "2026-11-07",
-  "file": "Grimorio-do-Aventureiro-Setup-2.2.3.exe",
-  "download": "https://github.com/teixeira-ux/grimorio-do-aventureiro-releases/raw/main/downloads/Grimorio-do-Aventureiro-Setup-2.2.3.exe",
+  "file": "Grimorio-do-Aventureiro-Setup-2.3.0.exe",
+  "download": "https://github.com/teixeira-ux/grimorio-do-aventureiro-releases/raw/main/downloads/Grimorio-do-Aventureiro-Setup-2.3.0.exe",
   "page": "https://github.com/teixeira-ux/grimorio-do-aventureiro-releases",
-  "sha256": "509e62a1af95c610fc3c03099b560103ba2ce8f1435b80112d995e994f348bf5",
-  "size": 94936172,
+  "sha256": "18b35be7e751f41f7cd28b97b5d777f0b0477654f25fbd8183e410783c1330e4",
+  "size": 94945272,
   "kind": "setup",
   "notes": [
-    "Seu personagem continua salvo: quem já usou o app neste PC não precisa conectar de novo, nem depois de atualizar.",
-    "A lista de novidades desta janelinha ganhou uma barra de rolagem no estilo do app.",
-    "Tradução: não precisa de chave nenhuma; o Google Tradutor já traduz tudo. A chave de IA em Ajustes é opcional."
+    "Guia traduzido de novo: o Google Tradutor bloqueava a conexão na primeira abertura e o guia ficava em inglês. Agora o app traduz aos poucos e termina sozinho o que faltar.",
+    "Feitiços, talentos e itens do guia com o nome oficial do jogo em português (Seta Sombria, Corrupção…). O mouse mostra a descrição e o nome em inglês.",
+    "Equipamento: passe o mouse num item para vê-lo como no jogo, com o que você ganha e perde em relação ao que usa.",
+    "Cada item sugerido mostra quanto o personagem todo melhora (ex.: +4,2% no personagem)."
   ]
 }
