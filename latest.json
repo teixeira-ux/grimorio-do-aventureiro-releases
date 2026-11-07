@@ -1,15 +1,15 @@
 {
-  "version": "2.2.2",
+  "version": "2.2.3",
   "date": "2026-11-07",
-  "file": "Grimorio-do-Aventureiro-Setup-2.2.2.exe",
-  "download": "https://github.com/teixeira-ux/grimorio-do-aventureiro-releases/raw/main/downloads/Grimorio-do-Aventureiro-Setup-2.2.2.exe",
+  "file": "Grimorio-do-Aventureiro-Setup-2.2.3.exe",
+  "download": "https://github.com/teixeira-ux/grimorio-do-aventureiro-releases/raw/main/downloads/Grimorio-do-Aventureiro-Setup-2.2.3.exe",
   "page": "https://github.com/teixeira-ux/grimorio-do-aventureiro-releases",
-  "sha256": "1a46663ccc259b1a2c45270cbce9171b47fb515940518ae730c7e357d4d8e357",
-  "size": 94935354,
+  "sha256": "509e62a1af95c610fc3c03099b560103ba2ce8f1435b80112d995e994f348bf5",
+  "size": 94936172,
   "kind": "setup",
   "notes": [
-    "Ajustes → Versão: botão para copiar o link de download e mandar para os amigos.",
-    "Atualização mais segura: se o antivírus bloquear o instalador, a janelinha avisa e oferece baixar pelo navegador.",
-    "Vindo da 2.1? Agora o app tem instalador, janelinha de atualização, tutorial de boas-vindas, busca do personagem pelo nome e abre junto com o Windows."
+    "Seu personagem continua salvo: quem já usou o app neste PC não precisa conectar de novo, nem depois de atualizar.",
+    "A lista de novidades desta janelinha ganhou uma barra de rolagem no estilo do app.",
+    "Tradução: não precisa de chave nenhuma; o Google Tradutor já traduz tudo. A chave de IA em Ajustes é opcional."
   ]
 }
