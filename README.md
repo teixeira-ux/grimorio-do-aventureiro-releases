@@ -4,14 +4,17 @@ Companheiro de leveling para **World of Warcraft: Forever**, em português, para
 App de desktop para Windows: portátil, não precisa instalar.
 
 ## Baixar
-**[⬇ Baixar o Grimório do Aventureiro 2.1.0 para Windows](https://github.com/teixeira-ux/grimorio-do-aventureiro-releases/raw/main/downloads/Grimorio-do-Aventureiro-2.1.0-Windows.exe)** (87 MB)
+**[⬇ Baixar o instalador do Grimório do Aventureiro 2.2.2 para Windows](https://github.com/teixeira-ux/grimorio-do-aventureiro-releases/raw/main/downloads/Grimorio-do-Aventureiro-Setup-2.2.2.exe)** (91 MB)
 
-As versões ficam na pasta [`downloads`](downloads); a mais nova é a de número maior.
+Dê dois cliques no instalador: ele instala sem pedir administrador, cria atalho no menu Iniciar e na área de trabalho
+e já abre o app. Para desinstalar, use Configurações → Aplicativos instalados.
 
-Se o Windows SmartScreen avisar "O Windows protegeu o computador", clique em **Mais informações → Executar assim
-mesmo**. O aviso aparece porque o app não tem certificado de assinatura pago. A primeira abertura leva alguns segundos.
+O app ainda não tem assinatura digital paga, então o Windows pode desconfiar na primeira instalação:
+- janela azul "O Windows protegeu o computador": clique em **Mais informações → Executar assim mesmo**;
+- aviso do antivírus (Microsoft Defender): é um falso positivo comum em apps novos sem assinatura. Se quiser, confira
+  o arquivo pelo SHA-256 publicado em [`latest.json`](latest.json).
 
-O app confere sozinho este repositório (ao abrir e a cada 6 horas) e avisa no topo da janela quando sai versão nova.
+Depois de instalado, o app confere este repositório toda vez que abre e se atualiza com um clique.
 
 ## O que ele faz
 - **Armory oficial do Forever:** cole o link do seu personagem ou digite o nome com sobrenome. O app identifica raça,
@@ -22,6 +25,7 @@ O app confere sozinho este repositório (ao abrir e a cada 6 horas) e avisa no t
 - **Melhorias de equipamento:** as melhores trocas por espaço para o seu nível e especialização, com onde conseguir
   (missão, masmorra, profissão, vendedor, reputação, leilão).
 - **Notícias:** Wowhead e Reddit do Forever, traduzidos, com o texto completo dentro do app.
+- **Abre junto com o Windows** (dá para desligar em Ajustes).
 - **Dicas, ideias e erros:** o balão no topo da janela manda a sua mensagem direto para o autor, sem conta nem e-mail.
 
 ## Seus dados
