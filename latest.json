@@ -1,15 +1,18 @@
 {
-  "version": "2.3.1",
+  "version": "2.3.2",
   "date": "2026-11-07",
-  "file": "Grimorio-do-Aventureiro-Setup-2.3.1.exe",
-  "download": "https://github.com/teixeira-ux/grimorio-do-aventureiro-releases/raw/main/downloads/Grimorio-do-Aventureiro-Setup-2.3.1.exe",
+  "file": "Grimorio-do-Aventureiro-Setup-2.3.2.exe",
+  "download": "https://github.com/teixeira-ux/grimorio-do-aventureiro-releases/raw/main/downloads/Grimorio-do-Aventureiro-Setup-2.3.2.exe",
   "page": "https://github.com/teixeira-ux/grimorio-do-aventureiro-releases",
-  "sha256": "22cefad8d85e634c121e8a51dbeed609b4f6ba10900d57602c0d5175ad3c2e24",
-  "size": 94948833,
+  "sha256": "092e676805d0490c0e6c1f39361740e2d9dc9f001dbcad4a0512d3cc314b67ff",
+  "size": 94945879,
   "kind": "setup",
   "notes": [
-    "Barra de carregamento do guia: em português, o guia aparece depois de todo traduzido, com a porcentagem subindo. Se o Google pedir pausa, dá para ler o original enquanto isso.",
-    "Idioma: português ou inglês, escolhido na primeira abertura ou em Ajustes → Idioma. Em inglês, guia, notícias e nomes do jogo vêm no original, sem esperar tradução.",
-    "Da 2.3.0: guia traduzido sem bloqueio do Google, nomes oficiais do jogo em português, item como no jogo ao passar o mouse e % de melhoria no personagem."
+    "Resolvido: o guia voltou a ficar em português. Enquanto traduz, uma barra mostra quanto falta.",
+    "Resolvido: o aviso de versão nova aparece assim que ela sai.",
+    "Novo: feitiços, talentos e itens com o mesmo nome que aparece no jogo.",
+    "Novo: passe o mouse num item para vê-lo como no jogo.",
+    "Novo: cada item sugerido mostra quanto o seu personagem melhora.",
+    "Novo: escolha português ou inglês em Ajustes → Idioma."
   ]
 }
