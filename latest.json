@@ -1,18 +1,15 @@
 {
-  "version": "2.3.2",
+  "version": "2.4.0",
   "date": "2026-11-07",
-  "file": "Grimorio-do-Aventureiro-Setup-2.3.2.exe",
-  "download": "https://github.com/teixeira-ux/grimorio-do-aventureiro-releases/raw/main/downloads/Grimorio-do-Aventureiro-Setup-2.3.2.exe",
+  "file": "Grimorio-do-Aventureiro-Setup-2.4.0.exe",
+  "download": "https://github.com/teixeira-ux/grimorio-do-aventureiro-releases/raw/main/downloads/Grimorio-do-Aventureiro-Setup-2.4.0.exe",
   "page": "https://github.com/teixeira-ux/grimorio-do-aventureiro-releases",
-  "sha256": "092e676805d0490c0e6c1f39361740e2d9dc9f001dbcad4a0512d3cc314b67ff",
-  "size": 94945879,
+  "sha256": "038601a73e3515e0e73679d5e4250088d1a100b52de5c005350664edda334795",
+  "size": 94949404,
   "kind": "setup",
   "notes": [
-    "Resolvido: o guia voltou a ficar em português. Enquanto traduz, uma barra mostra quanto falta.",
-    "Resolvido: o aviso de versão nova aparece assim que ela sai.",
-    "Novo: feitiços, talentos e itens com o mesmo nome que aparece no jogo.",
-    "Novo: passe o mouse num item para vê-lo como no jogo.",
-    "Novo: cada item sugerido mostra quanto o seu personagem melhora.",
-    "Novo: escolha português ou inglês em Ajustes → Idioma."
+    "Novo: traduza o guia na hora com a sua IA. Serve o Gemini (grátis), o ChatGPT ou o Claude, em Ajustes → IA.",
+    "Melhorado: a barra do guia mostra se está traduzindo ou pausada, e em quantos minutos volta.",
+    "Novo: quando o tradutor grátis pausa, o app oferece usar a sua IA ou seguir em inglês."
   ]
 }
