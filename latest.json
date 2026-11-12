@@ -1,15 +1,15 @@
 {
-  "version": "2.4.0",
-  "date": "2026-11-07",
-  "file": "Grimorio-do-Aventureiro-Setup-2.4.0.exe",
-  "download": "https://github.com/teixeira-ux/grimorio-do-aventureiro-releases/raw/main/downloads/Grimorio-do-Aventureiro-Setup-2.4.0.exe",
+  "version": "2.4.1",
+  "date": "2026-11-12",
+  "file": "Grimorio-do-Aventureiro-Setup-2.4.1.exe",
+  "download": "https://github.com/teixeira-ux/grimorio-do-aventureiro-releases/raw/main/downloads/Grimorio-do-Aventureiro-Setup-2.4.1.exe",
   "page": "https://github.com/teixeira-ux/grimorio-do-aventureiro-releases",
-  "sha256": "038601a73e3515e0e73679d5e4250088d1a100b52de5c005350664edda334795",
-  "size": 94949404,
+  "sha256": "c8daf3efb4c0340efcbb070f78c1035ccf234a3d48ce7da6b0496711a16d96ba",
+  "size": 94949844,
   "kind": "setup",
   "notes": [
-    "Novo: traduza o guia na hora com a sua IA. Serve o Gemini (grátis), o ChatGPT ou o Claude, em Ajustes → IA.",
-    "Melhorado: a barra do guia mostra se está traduzindo ou pausada, e em quantos minutos volta.",
-    "Novo: quando o tradutor grátis pausa, o app oferece usar a sua IA ou seguir em inglês."
+    "Resolvido: a chave nova do Gemini (que começa com AQ.) agora funciona em Ajustes → IA.",
+    "Resolvido: para xamã, paladino e druida, o espaço da varinha agora se chama relíquia.",
+    "Novo: cada item sugerido tem os botões Wowhead (abre a página do item) e Copiar nome."
   ]
 }

@@ -4,7 +4,7 @@ Companheiro de leveling para **World of Warcraft: Forever**, em português, para
 App de desktop para Windows, com instalador de um clique e atualização automática.
 
 ## Baixar
-**[⬇ Baixar o instalador do Grimório do Aventureiro 2.4.0 para Windows](https://github.com/teixeira-ux/grimorio-do-aventureiro-releases/raw/main/downloads/Grimorio-do-Aventureiro-Setup-2.4.0.exe)** (91 MB)
+**[⬇ Baixar o instalador do Grimório do Aventureiro 2.4.1 para Windows](https://github.com/teixeira-ux/grimorio-do-aventureiro-releases/raw/main/downloads/Grimorio-do-Aventureiro-Setup-2.4.1.exe)** (91 MB)
 
 Dê dois cliques no instalador: ele instala sem pedir administrador, cria atalho no menu Iniciar e na área de trabalho
 e já abre o app. Para desinstalar, use Configurações → Aplicativos instalados.
